@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a modern portfolio website designed for senior developers, emphasizing expertise and professional connections.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
